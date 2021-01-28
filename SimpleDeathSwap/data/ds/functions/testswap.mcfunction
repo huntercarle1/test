@@ -1,0 +1,2 @@
+execute if score time time matches 6000 run execute if score odd odd matches 1 run function ds:oddswap
+execute if score time time matches 6000 run execute if score odd odd matches 0 run function ds:swap
